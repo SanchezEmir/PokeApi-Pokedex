@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyPokedex</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="abiliti">%1$s \nHidden:%2$b, %3$s</string>
+
+    <string name="sprite">%1$d %2$d</string>
+    <string name="names">\u25A0 Nombre: \n\t\t.%1$s</string>
+
+    <string name="abilities">\u25A0 Habilidad: \n\t\t\u25AA %1$s</string>
+    <string name="base_expe">\u25A0 Experiencia Base: %1$s</string>
+    <string name="height">\u25A0 Altura: %1$s</string>
+    <string name="types">\u25A0 Pokemo de tipo: %1$s</string>
+    <string name="weight">\u25A0 Peso: %1$s</string>
+
+</resources>
